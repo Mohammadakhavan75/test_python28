@@ -1,0 +1,6 @@
+[2024-10-01 20:57:02.056954] [0x00003574] (info) : Connect CEF app
+[2024-10-01 20:57:02.056954] [0x00003574] (info) : 2024,9,149,64h
+[2024-10-01 20:57:02.056954] [0x00003574] (info) : checkAndCreateSingleAppHandle:: creating parent process
+[2024-10-01 20:57:02.607056] [0x00003574] (info) : CefInitialize............
+[2024-10-01 20:57:02.637102] [0x00003574] (info) : OnContextInitialized... 
+[2024-10-01 20:57:02.637102] [0x00003574] (info) : Memory 39.70 GB
